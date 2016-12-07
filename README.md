@@ -1,27 +1,27 @@
 # E-health-maken
-Mijn uitdaging:
+<b>Mijn uitdaging:</b>
 Mijn uitdaging voor het vak maken is meer kennis verkrijgen wat er mogelijk is in Code/ Javascript. Ik ben zelf niet goed in het schrijven van Code/Javascript maar als ik het uitgewerkt zie snap ik dit meestal wel. Ik wil gaan kijken wat de mogelijkheden zijn met Code/Javascript en wat voor gave dingen je kan maken met deze Code/Javascript. 
 Als designer is het handig om te weten wat de mogelijkheden zijn van code, zodat je altijd iets ontwerpt wat ook daadwerkelijk kan en niet pas erachter komt dat het niet kan als het ontwerp al definitief is. Dit wil ik in het project voornamelijk doen door veel onderzoek en wellicht als het lukt in de praktijk toepassen.
 
 
-Deelvraag: Hoe kunnen wij met notificaties het dagelijks gebruik stimuleren bij de gebruiker van de applicatie? 
+<B>Deelvraag:</B> Hoe kunnen wij met notificaties het dagelijks gebruik stimuleren bij de gebruiker van de applicatie? 
 
 
-Inleiding, wat wil ik weten?
+<b>Inleiding, wat wil ik weten?</b>
 Tijdens het onderzoek bij BDD patiënten kwam naar voren dat zij ons idee over notificaties toepassen in de applicatie fijn zouden vinden. Dat zij als gebruiker een reminder krijgen. Dit is voornamelijk handig tijdens de therapie. Een voorbeeld van een melding die toegepast kan worden: De patiënten schrijven in een “witboek” hun positieve ervaringen bij en ze zouden dit fijn vinden om het in de applicatie te doen en dan een melding krijgen dat zij het nog niet gedaan hebben. Wij willen nog meerdere positieve notificaties toepassen, zodat de patiënt nog vaker naar de applicatie gaan om het dagelijks gebruik te stimuleren.
 
 
 In dit onderzoek wil ik het technische gedeelte onderzoeken van notificaties. Hoe kunnen we push notificaties gebruiken in een native applicatie en wat voor notificaties zijn er daar mogelijk. Als laatst wil ik kijken wat voor Code je ongeveer hiervoor nodig hebt. 
 
 
-Hoe heb ik dit onderzoek aangepakt?
+<b>Hoe heb ik dit onderzoek aangepakt?</b>
 Ik begon mijn onderzoek op het internet met artikelen zoeken over notificaties op het internet. Als eerste kwam ik bij de bron Kony, over hoe je notificaties wel en niet moet gebruiken. Daarna ben ik opzoek gegaan naar soorten notificaties en kwam ik op de bron (developer)/ Bij deze site ben ik gaan kijken hoe je die notificaties toe zou kunnen passen met code. In de resultaten vertel ik wat ik ondervonden heb van deze artikelen. 
 
 
 Ik heb ook een github account gevonden die laat zien hoe je push notificaties kan toepassen dan wel op een ios applicatie. Voor mij was deze code iets te ingewikkeld. PushNotificationIOS  
 
 
-Resultaten 
+<b>Resultaten</b> 
 De meeste telefoon gebruikers zijn weten goed hoe hun mobiel werkt en hoe ze notificaties uit kunnen zetten. Dit is niet fijn voor de bedrijven en ook erg nadelig.Kony,   In dit artikel wordt verteld over push notificaties die gebruiker niet uit zouden willen zetten. Dit zijn een aantal manieren hoe je er voor kan zorgen dat de gebruiker het niet uit zou willen zetten:
 
 Feedback:
@@ -49,11 +49,11 @@ In het lopende gebied heb je een progres balk nodig om deze aan de gang te krijg
 Active Notifications
 Actieve notificaties worden bovenin het scherm weergegeven wanneer de melding binnenkomt. Dit gebeurt vaak met een sms of een oproep die worden bovenin het scherm weergegeven. 
 
-Conclusie
+<b>Conclusie</b>
 Er zijn verschillende soorten mogelijkheden om een notificatie toe te passen en wat niet veel werk kost. Het is alleen belangrijk dat we goed gaan kijken wat voor meldingen belangrijk zijn en hoe vaak er een melding naar de gebruiker toegestuurd wordt. We moeten verder gaan onderzoeken of wij de gebruiker een kans geven om bepaalde notificaties uit te zetten of dat we dit niet doen. 
 
 
-Bronnen:
+<b>Bronnen:</b>
 
 
 Kony, How to use pushnotifications: 
