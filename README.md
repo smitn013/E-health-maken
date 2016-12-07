@@ -24,14 +24,14 @@ Ik heb ook een github account gevonden die laat zien hoe je push notificaties ka
 <b>Resultaten</b> 
 De meeste telefoon gebruikers zijn weten goed hoe hun mobiel werkt en hoe ze notificaties uit kunnen zetten. Dit is niet fijn voor de bedrijven en ook erg nadelig.Kony,   In dit artikel wordt verteld over push notificaties die gebruiker niet uit zouden willen zetten. Dit zijn een aantal manieren hoe je er voor kan zorgen dat de gebruiker het niet uit zou willen zetten:
 
-Feedback:
+<i>Feedback:</i>
 Wanneer de gebruiker de applicatie installeert vraag aan de gebruiker wat voor notificatie ze wel en niet willen. Op deze manier kiest de gebruiker de notificaties die bij hen persoonlijk passen. Ook kan de maken de data analyseren welke notificaties wel en niet aantrekken bij de meeste gebruikers. Als laatst maak het niet te moeilijk om de notificaties uit te zetten, gebruikers willen niet zoeken ze verwijderen liever de applicatie zelf. 
 
-Zo min mogelijk informatie:
+<i>Zo min mogelijk informatie:</i>
 Denk aan hoe irritant het is als je meerdere notificaties per uur krijgt, dan zet je het graag uit nietwaar. Hou hier rekening mee, applicaties die te veel meldingen sturen en irritant gevonden worden, worden vaak verwijderd of uitgezet. Ook houd de informatie interessant, als op dat moment niet relevant is om die notificatie te krijgen stuur hem dan niet. Voorbeeld hiervan is om s nachts een notificatie te sturen naar de gebruiker terwijl ze liggen te slapen. 
 
 
-Op een mobiel zijn er verschillende notificaties mogelijk:
+<i>Op een mobiel zijn er verschillende notificaties mogelijk:</i>
 Notifications on the Quick Panel (developer) 
 Dit is in het weergavegebied voor snelle meldingen en hierin heb je twee verschillende vormen namelijk :
 
