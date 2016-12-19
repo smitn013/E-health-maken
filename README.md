@@ -59,7 +59,7 @@ Er zijn verschillende soorten mogelijkheden om een notificatie toe te passen en 
 Kony, How to use pushnotifications: 
 http://www.kony.com/resources/blog/how-use-push-notifications-their-full-potential
 Devolper, Notifications
-https://developer.tizen.org/development/guides/native-application/notifications-and-content-sha
+https://developer.tizen.org/development/guides/native-application/notifications-and-content-sharing/notifications
 PushnotificationsIOS:
 https://facebook.github.io/react-native/docs/pushnotificationios.html
 
